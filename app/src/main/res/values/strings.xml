@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="post">岗位课程</string>
+    <string name="hot">热门课程</string>
+    <string name="team">团队介绍</string>
+
+</resources>
